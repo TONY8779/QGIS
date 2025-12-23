@@ -427,7 +427,7 @@ class CORE_EXPORT QgsMapLayerServerProperties: public QgsServerMetadataUrlProper
     /**
      * Sets the DataUrl of the layer used by QGIS Server in GetCapabilities request.
      *
-     * DataUrl is a a link to the underlying data represented by a particular layer.
+     * DataUrl is a link to the underlying data represented by a particular layer.
      *
      * \see dataUrl()
      *

@@ -156,7 +156,7 @@ class CORE_EXPORT QgsApplication : public QApplication
      * The StyleSheetType enum represents the stylesheet type that
      * a widget supports.
      *
-     * Is is used by widgets that display HTML content to retrieve
+     * It is used by widgets that display HTML content to retrieve
      * the standard QGIS stylesheet, maintained according to QGIS
      * visual guidelines.
      */

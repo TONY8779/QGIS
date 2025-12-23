@@ -187,7 +187,7 @@ class CORE_EXPORT QgsPalettedRasterRenderer: public QgsRasterRenderer
     static QgsPalettedRasterRenderer::MultiValueClassData rasterAttributeTableToClassData( const QgsRasterAttributeTable *attributeTable, int classificationColumn = -1, QgsColorRamp *ramp = nullptr );
 
     /**
-     * Converts a \a string containing a color table or class data to to paletted renderer class data.
+     * Converts a \a string containing a color table or class data to paletted renderer class data.
      *
      * \see classDataFromFile()
      * \see classDataToString()

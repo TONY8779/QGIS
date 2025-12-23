@@ -233,7 +233,7 @@ class GUI_EXPORT QgsAttributeTableModel : public QAbstractTableModel
     // TODO QGIS 4: return copy instead of reference
 
     /**
-     * Gets the the feature request
+     * Gets the feature request
      */
     const QgsFeatureRequest &request() const;
 

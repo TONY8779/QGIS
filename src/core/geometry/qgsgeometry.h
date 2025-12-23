@@ -1454,7 +1454,7 @@ class CORE_EXPORT QgsGeometry
 
     /**
      * Returns TRUE if the bounding box of this geometry intersects with a \a rectangle. Since this
-     * test only considers the bounding box of the geometry, is is very fast to calculate and handles invalid
+     * test only considers the bounding box of the geometry, it is very fast to calculate and handles invalid
      * geometries.
      *
      * \see intersects()
