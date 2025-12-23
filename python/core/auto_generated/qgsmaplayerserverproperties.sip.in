@@ -375,7 +375,7 @@ GetCapabilities request.
 Sets the DataUrl of the layer used by QGIS Server in GetCapabilities
 request.
 
-DataUrl is a a link to the underlying data represented by a particular
+DataUrl is a link to the underlying data represented by a particular
 layer.
 
 .. seealso:: :py:func:`dataUrl`

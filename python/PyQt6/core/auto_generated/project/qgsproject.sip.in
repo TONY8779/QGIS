@@ -715,7 +715,7 @@ Remove the given ``key`` from the specified ``scope``.
 
     QStringList entryList( const QString &scope, const QString &key ) const;
 %Docstring
-Returns a list of child keys with values which exist within the the
+Returns a list of child keys with values which exist within the
 specified ``scope`` and ``key``.
 
 This method does not return keys that contain other keys. See

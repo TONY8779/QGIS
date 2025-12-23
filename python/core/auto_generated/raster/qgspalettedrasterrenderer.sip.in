@@ -185,8 +185,8 @@ available value column.
 
     static QgsPalettedRasterRenderer::ClassData classDataFromString( const QString &string );
 %Docstring
-Converts a ``string`` containing a color table or class data to to
-paletted renderer class data.
+Converts a ``string`` containing a color table or class data to paletted
+renderer class data.
 
 .. seealso:: :py:func:`classDataFromFile`
 

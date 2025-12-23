@@ -1463,7 +1463,7 @@ which are not valid may return incorrect results.
 %Docstring
 Returns ``True`` if the bounding box of this geometry intersects with a
 ``rectangle``. Since this test only considers the bounding box of the
-geometry, is is very fast to calculate and handles invalid geometries.
+geometry, it is very fast to calculate and handles invalid geometries.
 
 .. seealso:: :py:func:`intersects`
 %End
