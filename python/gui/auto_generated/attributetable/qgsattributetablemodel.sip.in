@@ -1,7 +1,7 @@
 /************************************************************************
  * This file has been generated automatically from                      *
  *                                                                      *
- * src/gui/attributetable/qgsattributetablemodel.h                      *
+ * ../src/gui/attributetable/qgsattributetablemodel.h                   *
  *                                                                      *
  * Do not edit manually ! Edit header and run scripts/sipify.py again   *
  ************************************************************************/
@@ -304,7 +304,7 @@ Emitted when the model has completely loaded all features.
 /************************************************************************
  * This file has been generated automatically from                      *
  *                                                                      *
- * src/gui/attributetable/qgsattributetablemodel.h                      *
+ * ../src/gui/attributetable/qgsattributetablemodel.h                   *
  *                                                                      *
  * Do not edit manually ! Edit header and run scripts/sipify.py again   *
  ************************************************************************/
