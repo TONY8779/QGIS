@@ -1438,6 +1438,7 @@ set(QGIS_CORE_HDRS
   classification/qgsclassificationstandarddeviation.h
 
   diagram/qgsdiagram.h
+  diagram/qgsdiagramsettings.h
   diagram/qgshistogramdiagram.h
   diagram/qgspiediagram.h
   diagram/qgsstackedbardiagram.h
